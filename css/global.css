@@ -1,9 +1,10 @@
 @font-face {
     font-family: 'My Lucida';
     src: url('../font/LucidaGrande.ttf');
-    font-style: normal; 
+    font-style: normal;
     font-weight: bold;
 }
+
 
 * { 
     font-family: 'My Lucida', Console;
@@ -20,6 +21,10 @@ a {
 
 .wrapper {
     padding: 25px 0;
+}
+
+.dropdown{
+    margin-top: 3rem; 
 }
 
 body > header {
